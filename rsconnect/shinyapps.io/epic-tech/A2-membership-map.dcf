@@ -1,0 +1,14 @@
+name: A2-membership-map
+title: A2-membership-map
+username:
+account: epic-tech
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8240973
+bundleId: 6817560
+url: https://epic-tech.shinyapps.io/A2-membership-map/
+when: 1675737340.64086
+lastSyncTime: 1675737340.64087
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|A2_mapping.R|location.csv|Master Metrics Sheet - EPIC.xlsx|working_progress.RData|Maps and shapefiles|shapefiles
